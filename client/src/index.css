@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@400;700&family=Arima:wght@400;600&family=Montserrat:wght@500&family=Open+Sans:wght@400;600&family=Poppins:wght@400;600&family=Raleway:wght@400;600&display=swap');
+
+:root {
+  --amitaFont: 'Amita', cursive;
+  --arimaFont: 'Arima', cursive;
+  --MontserratFont: 'Montserrat', sans-serif;
+  --openSansFont: 'Open Sans', sans-serif;
+  --poppinsFont: 'Poppins', sans-serif;
+  --ralewayFont: 'Raleway', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: #e0e0e0;
+}
